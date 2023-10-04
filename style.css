@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    border: 2px solid cornflowerblue;
+    display: inline;
+}
+span {
+    border: 2px solid cornflowerblue;
+    display: block;
+    text-align: center;
+}
+div {
+    border: 2px solid red;
+    text-align: center;
+}
